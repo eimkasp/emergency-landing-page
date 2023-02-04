@@ -1,6 +1,19 @@
-# The Shuffle Editor (https://shuffle.dev)
+# Emergency Landing Page Demo Repository
+
+Online demo:
+https://businesspress.pages.dev/
+
+Timelapse on youtube:
+https://www.youtube.com/watch?v=hft4r8RxtB0&ab_channel=EIM
+
+
+
+
+# Powered by: The Shuffle Editor
+https://shuffle.dev
 
 NOTE: npm commands overwrite the ./public directory.
+
 
 ## 1. Getting Started
 
